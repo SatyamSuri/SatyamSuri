@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Satyam</h1>
-<h3 align="center">🧠 Deep Learning Enthusiast | 💻 Aspiring Software Engineer | 🎓 M.S. CS @ IIT Tirupati</h3>
+<h3 align="center">🧠 Deep Learning Enthusiast | 💻 Aspiring Software Engineer | 🎓 M.S. in Computr Science and Engineering @ IIT Tirupati</h3>
 
 ---
 
@@ -84,8 +84,7 @@ Developed a responsive web app with secure login and product management features
 
 ## 📬 Let's Connect
 
-📧 **Email:** satyam1542001@gmail.com  
-📱 **Phone:** +91 9636907037  
+📧 **Email:** satyam1542001@gmail.com    
 🔗 **LinkedIn:** [linkedin.com/in/satyam-b203501a1](https://www.linkedin.com/in/satyam-b203501a1/)
 
 ---
