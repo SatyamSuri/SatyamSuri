@@ -7,7 +7,7 @@
 
 🎓 Pursuing M.S. in Computer Science at **IIT Tirupati**, I’m a curious mind with a code-first mindset, transitioning from a Mechanical Engineering background to explore the fascinating world of intelligent systems.
 
-💡 Cracking **GATE CS** was just the beginning—I'm driven by curiosity, logic, and a desire to create meaningful software powered by data and AI.
+💡 Cracking **GATE CS** was just the beginning. I'm driven by curiosity, logic, and a desire to create meaningful software powered by data and AI.
 
 ---
 
