@@ -1,4 +1,5 @@
 👋 **Hey there, I'm Satyam**
+---
 🎓 M.S. in Computer Science @ IIT Tirupati
 🤖 Deep Learning Explorer | 🛠️ Aspiring Software Engineer | 🎯 GATE CS Qualified
 
