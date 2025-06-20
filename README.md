@@ -54,9 +54,6 @@ Developed a responsive web app with secure login and product management features
 **Tech Stack:** HTML, CSS, SQL  
 ✔️ Authentication | ✔️ Dynamic Content | ✔️ SQL Database Integration
 
-### 💡 GATE CS Prep Projects  
-Built multiple mini projects in Python & C++ while mastering DBMS, OS, and CN.  
-✔️ Concept Reinforcement | ✔️ Efficient DSA Practice
 
 ---
 
