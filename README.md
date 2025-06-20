@@ -60,14 +60,14 @@ Developed a responsive web app with secure login and product management features
 ## 🎓 Certifications & Training
 
 - 🎓 **C & C++ Summer Trainee** – ICT Academy, IIT Kanpur *(Rated: Excellent)*  
-- 🧠 **GATE CS 2024 Qualified**  
+- 🧠 **GATE CS 2023,2024,2025 Qualified**  
 - 💻 Participated in coding competitions and hackathons  
 
 ---
 
 ## 🏅 Achievements
 
-- ✅ Cracked GATE CS  
+- ✅ Cracked GATE CS 3 times 
 - 🧩 Solved 100+ coding problems  
 - 🛠️ Built real-world mini projects  
 - 🧠 Rated *Excellent* in industry-grade C/C++ training
