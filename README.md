@@ -1,74 +1,97 @@
-👋 **Hey there, I'm Satyam**
----
-🎓 M.S. in Computer Science @ IIT Tirupati
-🤖 Deep Learning Explorer | 🛠️ Aspiring Software Engineer | 🎯 GATE CS Qualified
+<h1 align="center">Hi there 👋, I'm Satyam</h1>
+<h3 align="center">🧠 Deep Learning Enthusiast | 💻 Aspiring Software Engineer | 🎓 M.S. CS @ IIT Tirupati</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a passionate Computer Science graduate student at IIT Tirupati with a background in Mechanical Engineering and a heart set on intelligent machines. My journey from cracking GATE CS to building real-world tech reflects my love for structured thinking, continuous learning, and solving meaningful problems with code.
+🎓 Pursuing M.S. in Computer Science at **IIT Tirupati**, I’m a curious mind with a code-first mindset, transitioning from a Mechanical Engineering background to explore the fascinating world of intelligent systems.
 
-I'm especially drawn to deep learning, backend systems, and the elegant intersection of data and logic. Whether it’s training a model, building an app, or debugging a database, I bring curiosity, clarity, and commitment to the table.
-
----
-
-### 🌟 What Excites Me
-
-* 🤖 Deep Learning & AI for solving real-world challenges
-* ⚙️ Backend Development & System Design
-* 💡 Clean Code, Data Structures, and Scalable Architecture
-* 📊 Data-Driven Insights & ML Workflows
+💡 Cracking **GATE CS** was just the beginning—I'm driven by curiosity, logic, and a desire to create meaningful software powered by data and AI.
 
 ---
 
-### 🧪 My Work So Far
+## 🌟 Interests
 
-**🛒 E-Commerce Web Application**
-
-* Designed a responsive e-commerce platform with user login, product listings, and database integration.
-* *Tech Stack:* HTML, CSS, SQL
-
-**💡 Mini Projects (GATE CS Prep)**
-
-* Implemented DSA-based tools in C++ & Python while mastering DBMS, OS, and CN fundamentals.
-
-**🖥️ C & C++ Summer Training – ICT Academy, IIT Kanpur**
-
-* Completed hands-on training with focus on OOP, pointers, memory, and problem-solving.
-* *Performance: Excellent*
+- 🤖 Deep Learning & AI  
+- 🛠️ Backend Development  
+- 🔍 Problem Solving & DSA  
+- 🌐 System Programming & Scalable Apps
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-**Languages:** C, C++, Python, SQL
-**Tools:** Git, GitHub, VS Code, MySQL
-**Core CS Subjects:** Data Structures & Algorithms, DBMS, OS, Computer Networks
-**Learning Now:** TensorFlow, Pandas, Flask, ML Pipelines
+### 🚀 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🏆 Achievements
+### 📚 Core CS Concepts
+🧠 Data Structures & Algorithms  
+🖥️ Operating Systems  
+🗄️ DBMS  
+🌐 Computer Networks
 
-✅ GATE CS 2024 Qualified
-🎓 Rated “Excellent” in ICT Academy’s C/C++ Training
-💻 Participated in hackathons & coding contests
-🧠 Solved 100+ coding problems on LeetCode & other platforms
-
----
-
-### 🎯 Looking Ahead
-
-I’m seeking opportunities to grow in machine learning, software development, and AI-focused projects. If you're working on something meaningful in tech—let’s connect and collaborate!
-
----
-
-### 📫 Let’s Connect
-
-📧 Email: [satyam1542001@gmail.com](mailto:satyam1542001@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/satyam-b203501a1/](https://www.linkedin.com/in/satyam-b203501a1/)
+### 🔬 Currently Exploring
+- TensorFlow & Deep Learning  
+- Flask Web Development  
+- ML Pipelines & Deployment
 
 ---
 
-💡 *"I don't just write code—I engineer intelligent solutions with purpose."*
+## 🚀 Projects
+
+### 🛒 E-Commerce Web Application  
+Developed a responsive web app with secure login and product management features.  
+**Tech Stack:** HTML, CSS, SQL  
+✔️ Authentication | ✔️ Dynamic Content | ✔️ SQL Database Integration
+
+### 💡 GATE CS Prep Projects  
+Built multiple mini projects in Python & C++ while mastering DBMS, OS, and CN.  
+✔️ Concept Reinforcement | ✔️ Efficient DSA Practice
+
+---
+
+## 🎓 Certifications & Training
+
+- 🎓 **C & C++ Summer Trainee** – ICT Academy, IIT Kanpur *(Rated: Excellent)*  
+- 🧠 **GATE CS 2024 Qualified**  
+- 💻 Participated in coding competitions and hackathons  
+
+---
+
+## 🏅 Achievements
+
+- ✅ Cracked GATE CS  
+- 🧩 Solved 100+ coding problems  
+- 🛠️ Built real-world mini projects  
+- 🧠 Rated *Excellent* in industry-grade C/C++ training
+
+---
+
+## 🎯 Goals
+
+- 🔍 AI/ML Research & Internships  
+- 🛠️ Backend or Full-Stack Developer Roles  
+- 🚀 Build impactful projects in deep learning & intelligent systems  
+
+---
+
+## 📬 Let's Connect
+
+📧 **Email:** satyam1542001@gmail.com  
+📱 **Phone:** +91 9636907037  
+🔗 **LinkedIn:** [linkedin.com/in/satyam-b203501a1](https://www.linkedin.com/in/satyam-b203501a1/)
+
+---
+
+> 💡 *"I don’t just write code—I engineer possibilities with logic, learning, and purpose."*
+
