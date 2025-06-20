@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Satyam</h1>
-<h3 align="center">🧠 Deep Learning Enthusiast | 💻 Aspiring Software Engineer | 🎓 M.S. in Computr Science and Engineering @ IIT Tirupati</h3>
+<h3 align="center">🧠 Deep Learning Enthusiast | 💻 Aspiring Software Engineer | 🎓 M.S. in CSE @ IIT Tirupati</h3>
 
 ---
 
